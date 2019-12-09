@@ -12,7 +12,7 @@
     "employee",
     "project"
   ],
-  "author": "Mustafa Murat Coşkun",
+  "author": "Yılmaz ZEREN",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.1.2",
