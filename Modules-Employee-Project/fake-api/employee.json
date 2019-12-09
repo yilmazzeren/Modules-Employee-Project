@@ -1,0 +1,34 @@
+{
+  "employees": [
+    {
+      "name": "yılmaz zeren",
+      "department": "Borsa",
+      "salary": 200000,
+      "id": 1
+    },
+    {
+      "name": "Özlem ZEREN",
+      "department": "Peyzaj",
+      "salary": "10000",
+      "id": 2
+    },
+    {
+      "name": "Mert Tosun",
+      "department": "Bilişim",
+      "salary": 5200,
+      "id": 3
+    },
+    {
+      "name": "Çağatay UNCU",
+      "department": "Bilişim",
+      "salary": 4000,
+      "id": 4
+    },
+    {
+      "name": "Atilla Uysal",
+      "department": "Hediyelik Eşya",
+      "salary": "4000",
+      "id": 5
+    }
+  ]
+}
